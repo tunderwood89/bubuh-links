@@ -80,7 +80,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #2457F5;
+  background-color: #ab9c8c;
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -776,6 +776,16 @@ button:hover,
 }
 .button.button-reddit:hover,
 .button.button-reddit:focus {
+  filter: brightness(90%);
+}
+
+/* Replit */
+.button.button-replit {
+    color: #ffffff;
+    background-color: #0e1525;
+}
+.button.button-replit:hover,
+.button.button-replit:focus {
   filter: brightness(90%);
 }
 
