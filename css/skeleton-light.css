@@ -90,11 +90,10 @@ html {
   color-scheme: light;
 }
 body {
-  font-size: 18px;
-  line-height: 24px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 400;
-  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-style: normal;
 }
 
 /* Typography
