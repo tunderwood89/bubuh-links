@@ -405,7 +405,6 @@ button:hover,
 .button.button-github {
   color: #ffffff;
   background-color: #000000;
-  border: 1px solid #FFFFFF;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -772,7 +771,7 @@ button:hover,
 /* Reddit */
 .button.button-reddit {
   color: #FFFFFF;
-  background-color: #FF4500;
+  background-color: #ff4500;
 }
 .button.button-reddit:hover,
 .button.button-reddit:focus {
@@ -1135,7 +1134,6 @@ button:hover,
 .button.button-x {
   color: #FFFFFF;
   background-color: #000000;
-  border: 1px solid #FFFFFF;
 }
 .button.button-x:hover,
 .button.button-x:focus {
@@ -1155,8 +1153,8 @@ button:hover,
 /* YouTube */
 .button.button-yt {
   color: #ffffff;
-  background-color: #000000;
-  border: 1px solid #FFFFFF;
+  background-color: #282828;
+  border: 0px solid #FFFFFF;
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
